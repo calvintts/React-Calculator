@@ -1,0 +1,27 @@
+.container{
+  width:100%;
+  display:grid;
+  grid-template-rows: 1fr 5fr;
+  border:3px solid black !important;
+  min-height:468px;
+}
+
+.html_container{
+  text-align: center;
+  display: grid;
+  justify-content: center;
+  background-color:#343434;
+  padding-bottom:2em;
+}
+
+h1{
+  color:white;
+}
+
+
+
+@media only screen and (max-width: 600px) {
+  .container {
+    width:300px;
+  }
+}
