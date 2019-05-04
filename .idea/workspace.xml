@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88ee8968-090c-4bcd-bf62-2a06d46d96a0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/React-Calculator" beforeDir="false" afterPath="$PROJECT_DIR$/src/React-Calculator" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/React-Calculator/Allbuttons.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/React-Calculator/Allbuttons.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/React-Calculator/Button.js" beforeDir="false" />
@@ -80,12 +81,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557010399283</updated>
-      <workItem from="1557010403774" duration="438000" />
+      <workItem from="1557010403774" duration="719000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="438000" />
+    <option name="totallyTimeSpent" value="719000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="989" extended-state="6" />
