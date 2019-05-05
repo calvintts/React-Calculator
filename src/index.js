@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { render } from 'react-dom';
-import Output from './React-Calculator/consolePanel/Output';
+import Output from './consolePanel/Output';
 import Allbuttons from './Allbuttons/Allbuttons';
 import './container.css';
 
