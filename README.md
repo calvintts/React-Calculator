@@ -1,9 +1,9 @@
-This project is a Calculator created by Calvin
+<h1>This project is a Calculator created by Calvin</h1>
 
-Try this App out:
-https://calvintts.github.io/React-Calculator/
+<h2>Try this App out:</h2>
+<p>https://calvintts.github.io/React-Calculator/</p>
 
-Library Used:
-ReactJS
-
-This app is made by grid css styling.
+<h2>Library Used:</h2>
+<p>ReactJS</p>
+<br/>
+<p>This app is made by grid css styling.</p>
