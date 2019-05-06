@@ -1,4 +1,4 @@
-<h1>This project is a Calculator created by Calvin</h1>
+<h1>Calculator created by Calvin</h1>
 
 <h2>Try this App out:</h2>
 <p>https://calvintts.github.io/React-Calculator/</p>
