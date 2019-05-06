@@ -17,7 +17,7 @@ import './container.css';
         handleCalculate = (val2,val1,ops) => {
             console.log(ops)
             console.log(typeof(ops))
-            return ops=="x"?val1*val2:ops=="÷"?val1/val2:ops=="+"?val1+val2:val1-val2
+            return ops=="x"?val1*val2:ops=="÷"?val1/val2:ops=="+"?val1+val2:ops=="-"?val1-val2:0
         }
         handleClick = (x) => {
            if(!isNaN(x)||x==".")
